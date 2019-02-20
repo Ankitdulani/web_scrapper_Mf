@@ -4,11 +4,11 @@ This project is motivated due to unavailabity of single platform to compare Muta
 
 ## Applications
 
-To check how much diversified our investment our on the basis of top 10 holding of a Mutual Fund. 
-Performance of Different Sector in Market
-General trends in Equity Sector Allocation of top Mutual Funds.
-Evaluate the actual return when fund is liquidated from expense ratio and rate of Inflation (exclusive of taxes).
-Risk Analysis Upon wider scale than "5 star Rating"
+* To check how much diversified our investment our on the basis of top 10 holding of a Mutual Fund. 
+* Performance of Different Sector in Market
+* General trends in Equity Sector Allocation of top Mutual Funds.
+* Evaluate the actual return when fund is liquidated from expense ratio and rate of Inflation (exclusive of taxes).
+* Risk Analysis Upon wider scale than "5 star Rating"
 
 ### Dependencies:
 
