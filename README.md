@@ -12,14 +12,15 @@ This project is motivated due to unavailabity of single platform to compare Muta
 
 ### Dependencies:
 
-Selenium web automation browser
-chrome driver
-BeautifulSoup
-Python 3.6
+* Selenium web automation browser
+* chrome driver for selenium
+* BeautifulSoup
+* Python 3.6
 
 ### For running the module
+```
 run the DataExtraction.py script 
-
+```
 ### Output
 This outputs 
 * The unprocessedLinks from the homepage of Groww.com
