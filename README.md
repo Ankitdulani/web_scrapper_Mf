@@ -25,7 +25,7 @@ This outputs
 * The unprocessedLinks from the homepage of Groww.com
 * Json Document of Mutual Fund's Data 
 
-#### Model:
+#### Data Format:
 ```javascript
 {
   name: "Franklin India Low Duration Fund - Direct - Growth"
