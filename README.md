@@ -22,10 +22,11 @@ run the DataExtraction.py script
 
 ### Output
 This outputs 
-The unprocessedLinks from the homepage of Groww.com
-Json Document of Mutual Fund's Data 
+* The unprocessedLinks from the homepage of Groww.com
+* Json Document of Mutual Fund's Data 
 
 #### Model:
+```javascript
 {
   name: "Franklin India Low Duration Fund - Direct - Growth"
   Type_market: "Debt"
@@ -62,6 +63,7 @@ Json Document of Mutual Fund's Data
     }
   ]
 }
+```
 
 #### Point to be noted:
 Varry time.sleep() or the delay based upon the network bandwidth available. This may introduce latency but is more reliable when page don't load.
