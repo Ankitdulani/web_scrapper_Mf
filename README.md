@@ -1,6 +1,6 @@
 # WEB SCRAPPER FOR MUTUAL FUND's
 
-This project is motivated due to unavailabity of single platform to compare Mutaul Fund's Performance,Returns and other data. Every Aggregator suggests fund based upon there analysis!! But are they reliable. To deal with these issues, developed an automated data extraction using Selenium and BeautifulSoup on platform of PYTHON 3.6.
+This project is motivated due to unavailabity of single platform to compare Mutaul Fund's Performance,Returns and other data. Every Aggregator suggests fund based upon there analysis!! But are they reliable. To deal with these issues, developed an automated data extraction from website * www.groww.com * using Selenium and BeautifulSoup on platform of PYTHON 3.6.
 
 ## Applications
 
@@ -13,7 +13,7 @@ This project is motivated due to unavailabity of single platform to compare Muta
 ### Dependencies:
 
 * Selenium web automation browser
-* chrome driver for selenium
+* Chrome driver for selenium
 * BeautifulSoup
 * Python 3.6
 
