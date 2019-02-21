@@ -1,6 +1,6 @@
 # WEB SCRAPPER FOR MUTUAL FUND's
 
-This project is motivated due to unavailabity of single platform to compare Mutaul Fund's Performance, Returns and other data. Every Aggregator suggests fund based upon there analysis which questions there authenticity. To deal with these issues developed an automated data extraction using Selenium and BeautifulSoup on platform of PYTHON 3.6.
+This project is motivated due to unavailabity of single platform to compare Mutaul Fund's Performance,Returns and other data. Every Aggregator suggests fund based upon there analysis!! But are they reliable. To deal with these issues, developed an automated data extraction using Selenium and BeautifulSoup on platform of PYTHON 3.6.
 
 ## Applications
 
