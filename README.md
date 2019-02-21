@@ -4,7 +4,7 @@ This project is motivated due to unavailabity of single platform to compare Muta
 
 ## Applications
 
-* To check how much diversified our investment our on the basis of top 10 holding of a Mutual Fund. 
+* To check how much diversified our investment are on the basis of top 10 holding of a Mutual Fund. 
 * Performance of Different Sector in Market
 * General trends in Equity Sector Allocation of top Mutual Funds.
 * Evaluate the actual return when fund is liquidated from expense ratio and rate of Inflation (exclusive of taxes).
@@ -22,8 +22,9 @@ This project is motivated due to unavailabity of single platform to compare Muta
 run the DataExtraction.py script 
 ```
 ### Output
-This outputs 
-* The unprocessedLinks from the homepage of Groww.com
+This outputs :
+* List of all links available on Groww
+* The unprocessedLinks
 * Json Document of Mutual Fund's Data 
 
 #### Data Format:
